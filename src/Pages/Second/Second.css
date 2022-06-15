@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');
+.second{
+    text-align: center;
+    width: 669px;
+    margin: 140px auto 0px;
+}
+.second .title{
+    font-family: TTOctosquares-regular;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: -1.05px;
+    margin-bottom: 52px;
+}
+.second p{
+    font-family: Source Code Pro, monospace;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: -0.3px;
+}
+.second p+p{
+    margin-top: 20px;
+}
