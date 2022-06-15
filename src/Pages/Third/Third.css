@@ -1,0 +1,54 @@
+.third .pc {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  margin: 180px 0px;
+}
+.pc .data {
+  margin-left: 10px;
+}
+.data .item {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+}
+.pc .data .item + .item {
+  margin-top: 50px;
+}
+.data .item span:first-child {
+  font-family: "PT Sans", sans-serif;
+  box-sizing: border-box;
+  display: inline-block;
+  width: 270px;
+  height: 60px;
+  line-height: 60px;
+  text-align: left;
+  text-indent: 15px;
+  padding-right: 10px;
+  margin-right: 10px;
+  font-size: 30px;
+  letter-spacing: -0.4px;
+  background-color: rgb(35, 31, 32);
+  color: rgb(255, 255, 255);
+}
+.pc .data .item span:last-child {
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: Source Code Pro, monospace;
+  font-size: 28px;
+  line-height: 29px;
+  color: rgb(35, 31, 32);
+  white-space: nowrap;
+}
+.pc a {
+  color: inherit;
+  text-decoration: inherit;
+  text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.pc a img{
+    margin-left: 20px;
+}
