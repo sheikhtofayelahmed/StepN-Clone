@@ -1,0 +1,116 @@
+.kLPtRe {
+    padding-top: 180px;
+    margin-bottom: -300px;
+}
+.kLPtRe .title {
+    font-family: TTOctosquares-Black;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.kLPtRe .background {
+    background: url(https://stepn.com/img/backersbgtop.svg) 0px 36.8px / contain no-repeat, url(https://stepn.com/img/backersbg.svg) 0px 0px / cover no-repeat;
+    padding-bottom: 300px;
+    position: relative;
+}
+.kLPtRe .background .mask {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+}
+.kLPtRe .background .content {
+    padding-top: 256px;
+    width: 1115px;
+    margin: 0px auto;
+}
+.kLPtRe .background .content .row {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0px 0px 90px;
+    border-bottom: 2.8px solid rgb(0, 0, 0);
+    font-size: 0px;
+}
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.kLPtRe .background .content .grids {
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    padding: 82px 94px 0px;
+    width: 916px;
+    box-sizing: border-box;
+    margin: 0px auto;
+}
+.grids div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 180px;
+}
+.kLPtRe .background .content .grids #link1{
+    width: 246px;
+    margin-right: 173px;
+}
+.kLPtRe .background .content .grids a img {
+    vertical-align: middle;
+}
+
+.kLPtRe .background .content .grids img {
+    width: 100%;
+}
+.kLPtRe .background .content .grids #link2{
+    width: 309px;
+}
+.kLPtRe .background .content .grids #link3{
+   
+    width: 132px;
+}
+.kLPtRe .background .content .grids #link4{
+    width: 115px;
+   
+}
+.kLPtRe .background .content .grids #link5{
+    width: 101px;
+}
+.kLPtRe .background .content .grids #link6{
+    width: 158px;
+  
+}
+.kLPtRe .background .content .grids #link7{
+    width: 107px;
+   
+}
+.kLPtRe .background .content .grids #link8{
+    width: 181px;
+}
+.kLPtRe .background .content .grids #link9{
+    width: 193px;
+   
+}
+.kLPtRe .background .content .grids #link10 {
+    width: 230px;
+    
+}
+.kLPtRe .background .content .grids #link11 {
+    width: 191px;
+}
+.kLPtRe .background .content .grids #link12 {
+   
+    width: 78px;
+  
+}
+.kLPtRe .background .content .grids #link13 {
+    width: 182px;
+   
+}
+.kLPtRe .background .content .grids #link1 {
+    width: 182px;
+}
