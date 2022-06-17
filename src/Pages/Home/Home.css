@@ -27,7 +27,7 @@
     font-size: 24px;
     font-weight: bolder;
     letter-spacing: -0.2px;
-    font-family: TTOctosquares-regular;
+    font-family: 'TTOctosquares-Regular', sans-serif;
     text-align: center;
     cursor: pointer;
     z-index: 100;

@@ -3,9 +3,9 @@ import { useEffect } from "react";
 import { useState } from "react";
 import "./Third.css";
 const Third = () => {
-  const [distance, setDistance] = useState(49123245234.66);
+  const [distance, setDistance] = useState(49165824534.66);
   useEffect(() => {
-    setDistance(distance + 0.00583);
+    setDistance(distance + 0.01083);
   }, [distance]);
   const [carbon, setCarbon] = useState(3289318.66);
   useEffect(() => {

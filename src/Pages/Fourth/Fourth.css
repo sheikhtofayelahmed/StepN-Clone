@@ -1,0 +1,84 @@
+.OttRf{
+    position: relative;
+    z-index: 1;
+    font-family:  'TTOctosquares-Regular', sans-serif;
+    overflow: hidden;
+}
+.OttRf .title{
+    color: rgb(0, 0, 0);
+    line-height: 57px;
+    font-size: 50px;
+    text-align: center;
+}
+.cQtbee {
+    position: relative;
+    z-index: 0;
+    width: 100%;
+    overflow: hidden;
+    padding: 5vw 0px;
+}
+.cQtbee .top {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    z-index: 1;
+}
+.cQtbee .wrapper {
+    position: relative;
+    overflow: hidden;
+}
+.cQtbee .wrapper img {
+    position: relative;
+    width: 100%;
+}
+.cQtbee .bottom {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+}
+.cQtbee #subPlaceholder {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    bottom: 150px;
+    z-index: 100;
+}
+.cHXcMP input {
+    appearance: none;
+    position: relative;
+    z-index: 999;
+    width: 962px;
+    height: 76px;
+    line-height: 76px;
+    border: 4px solid rgb(0, 0, 0);
+    font-size: 32px;
+    text-align: center;
+    background-color: transparent;
+    display: block;
+    margin: 0px auto;
+    font-family: 'TTOctosquares-Regular', sans-serif;
+}
+.cHXcMP .title {
+    cursor: pointer;
+    width: 338px;
+    height: 56px;
+    margin: 28px auto 0px;
+    background-color: rgb(114, 245, 150);
+    text-align: center;
+    line-height: 56px;
+    font-size: 33px;
+    font-family: 'TTOctosquares-Regular', sans-serif;
+    border: none;
+}
+#mce-responses{
+    display: none;
+}
+#mce-success-response{
+    display: none;
+}
+#unknown{
+    position: absolute; 
+    left: -5000px;
+}
