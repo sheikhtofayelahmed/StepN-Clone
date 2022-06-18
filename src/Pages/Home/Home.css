@@ -3,7 +3,7 @@
     height: 1210px;
     background-image: url("https://stepn.com/img/eth.svg"),url("https://stepn.com/img/solana.svg"),url("https://stepn.com/img/bg.svg");
 }
-.icon{
+.home .icon{
     position: absolute;
     left: 75px;
     top: 64px;

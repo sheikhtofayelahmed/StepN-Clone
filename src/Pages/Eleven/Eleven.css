@@ -1,0 +1,91 @@
+.cNzKro {
+    position: relative;
+     font-size: 0px; 
+}
+.cNzKro .media {
+    font-family:  Source Code Pro, monospace;
+    position: absolute;
+    left: 50%;
+    width: 463px;
+    transform: translate(-50%, 0px);
+    bottom: 6vw;
+    font-size: 16px;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.cNzKro .media a {
+    color: rgb(255, 255, 255);
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.cNzKro .media img {
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.cNzKro .media a {
+    color: rgb(255, 255, 255);
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.cNzKro .icon {
+    position: absolute;
+    left: 0px;
+    bottom: 10vw;
+    width: 100%;
+    /* height: 32px; */
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+.icon img{
+    height: 100%;
+}
+.cNzKro .icon a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    height: 100%;
+}
+.cNzKro .icon a:nth-child(1) img {
+    width: 40px;
+}
+.cNzKro .icon a + a {
+    margin-left: 60px;
+}
+.cNzKro .icon a:nth-child(2) img {
+    width: 36px;
+}
+.cNzKro .icon a:nth-child(3) img {
+    width: 37px;
+}
+.cNzKro .icon a:nth-child(4) img {
+    width: 32px;
+}
+.cNzKro .icon a:nth-child(5) img {
+    width: 204px;
+}
+.cNzKro p {
+    font-family: Source Code Pro, monospace;
+    position: absolute;
+    width: 100%;
+    bottom: 2vw;
+    left: 50%;
+    transform: translate(-50%, 0px);
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    line-height: 25px;
+    text-align: center;
+}
+.cNzKro {
+    position: relative;
+    font-size: 0px;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}

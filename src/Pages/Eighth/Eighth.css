@@ -132,13 +132,13 @@ element.style {
   box-sizing: border-box;
   color: rgb(255, 255, 255);
   letter-spacing: -0.37px;
-  font-family: SourceCodeVariable-Roman;
+  font-family:  Source Code Pro, monospace;
   font-size: 16.6px;
   opacity: 0;
   transition: all 0.3s linear 0s;
 }
 .hlSvMf .name {
-  font-family: TTOctosquares-Black;
+  font-family: "TTOctosquares-Regular", sans-serif;
   font-size: 18px;
   line-height: 35px;
   display: flex;

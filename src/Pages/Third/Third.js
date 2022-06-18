@@ -5,15 +5,15 @@ import "./Third.css";
 const Third = () => {
   const [distance, setDistance] = useState(49165824534.66);
   useEffect(() => {
-    setDistance(distance + 0.01083);
+    setDistance(distance + 0.05083);
   }, [distance]);
   const [carbon, setCarbon] = useState(3289318.66);
   useEffect(() => {
-    setCarbon(carbon + 0.000000383);
+    setCarbon(carbon + 0.000000883);
   }, [carbon]);
   const [calories, setCalories] = useState(3053502126);
   useEffect(() => {
-    setCalories(calories + 0.000253);
+    setCalories(calories + 0.000853);
   }, [calories]);
   return (
     <div className="third">

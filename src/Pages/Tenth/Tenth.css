@@ -3,7 +3,7 @@
     margin-bottom: -300px;
 }
 .kLPtRe .title {
-    font-family: TTOctosquares-Black;
+    font-family: "TTOctosquares-Regular", sans-serif;
     font-size: 50px;
     line-height: 60px;
     text-align: center;
@@ -30,7 +30,7 @@
 .kLPtRe .background .content .row {
     display: flex;
     -webkit-box-pack: justify;
-    justify-content: space-between;
+    justify-content: space-evenly;
     -webkit-box-align: center;
     align-items: center;
     padding: 0px 0px 90px;
